@@ -2,3 +2,5 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  15 L03 Github related: Create repository
+ZCZC W00  10 L22 Youtube related: find out about github pages
+ZCZC W00  10 L04 GitHub Pages related: Create Github Page
