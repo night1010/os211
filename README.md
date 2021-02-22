@@ -1,2 +1,2 @@
 # os211
- Operating Systems 2021-1
+ A repository for Operation System, year 2020/2021, even semester.
