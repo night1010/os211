@@ -10,3 +10,4 @@ ZCZC W00  140 L26 Movie: relax
 ZCZC W00  30 L05 GSGS: Github
 ZCZC W00  20 L10 Assignment (General): pop quiz #3 #4 #5
 ZCZC W00  90 L11 Assignment #1: setting up virtualbox and debian
+ZCZC W01  30 L05 GSGS : search for popquiz w01 01 02 03
