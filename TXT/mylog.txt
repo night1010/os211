@@ -12,3 +12,5 @@ ZCZC W00  20 L10 Assignment (General): pop quiz #3 #4 #5
 ZCZC W00  90 L11 Assignment #1: setting up virtualbox and debian
 ZCZC W01  30 L05 GSGS : search for popquiz w01 01 02 03
 ZCZC W01  95 L02 ZOOM related: week 1 zoom
+ZCZC W01  120 L08 trying something: learn and do vim tutor
+ZCZC W01  100 L10 Assignment (General): Assignment 1-6
