@@ -1,3 +1,8 @@
+---
+layout: ""
+---
+
+
 # os211
  # Aimar Fikri Salafi
  ###  A repository for Operation System, year 2020/2021, even semester.
