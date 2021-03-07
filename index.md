@@ -11,5 +11,5 @@ layout: ""
 
 
 ### Operating System Weekly Top Ten List
- [Top 10 Link Lists Week 1](./w01)
+ [Top 10 Link Lists Week 1](w01/)
 
