@@ -15,4 +15,10 @@ ZCZC W01  95 L02 ZOOM related: week 1 zoom
 ZCZC W01  120 L08 trying something: learn and do vim tutor
 ZCZC W01  100 L10 Assignment (General): Assignment 1-6
 ZCZC W01  60 L07 Assignment 7: GSGS LINK
-ZCZC W01  30 L08 Assignment 8: read and try
+ZCZC W01  30 L08 Assignment 8: read and tr
+ZCZC w02  15 L08 trying something: learn and try pop quiz w02 01 02 03
+ZCZC W02  80 L02 ZOOM related: Third synchronous class
+ZCZC W02  30 L06 Reading References/Books/Documents: OSC Chapter 16-17
+ZCZC W02  30 L08 Trying something: Trying Demo Week 02
+ZCZC W02  20 L10 Assignment (General): Add public key and checksum
+ZCZC W02  15 L10 Assignment (General): ATM cbkadal myscript.sh
