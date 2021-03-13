@@ -1,15 +1,16 @@
 ---
-layout: ""
+layout: "layout"
+title: "Welcome!"
 ---
 
+# Operating Systems 2021-1 (OS211) {#title}
+## Aimar Fikri Salafi --- Jakarta Barat {#author}
 
-# os211
-# Aimar Fikri Salafi
-###  A repository for Operation System, year 2020/2021, even semester.
+## Hello ^^
 
-### [Detail LOG Ku](https://night1010.github.io/os211/TXT/mylog.txt ) 
+Welcome to this site!
+
+This site will contain my tasks and logs for Operating Systems class.
 
 
-### Operating System Weekly Top Ten List
- [Top 10 Link Lists Week 1](W01/)
 

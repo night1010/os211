@@ -1,0 +1,11 @@
+title:		"OS211"
+author:     "Night1010"
+urlweb:     "https://Night1010.io/os211"
+urlgithub:      "https://github.com/Night1010/os211"
+urlghpage:      "https://Night1010.github.io/os211"
+mygithub:       "https://github.com/Night1010"
+keywords:       "jekyll, testing"
+sitemap:        "true"
+plugins:
+    - jekyll-sitemap
+    - jekyll-seo-tag
