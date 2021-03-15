@@ -25,3 +25,4 @@ ZCZC W02  15 L10 Assignment (General): ATM cbkadal myscript.sh
 ZCZC W02   5 L10 Assignment (General): Add myrank.txt for Week 01
 ZCZC W02  60 L04 Github Pages related: Customize Github Page with Jekyll
 ZCZC W02  60 L04 Github Pages related: Customize Github Page layout
+ZCZC W02  60 L10 Assignment (General): make w02.md and gsgs for top ten link
