@@ -37,3 +37,11 @@ ZCZC W03 300 L15 Assignment 5: Finish Top 10 and GSGS about FileSystems and FUSE
 ZCZC W03  10 L18 Assignment 6: Update mylog
 ZCZC W03  10 L19 Assignment 9: bash myscript
 ZCZC W03  20 L05 GSGS : search for popquiz
+ZCZC W04 105 L02 ZOOM related: Fifth syncronous class
+ZCZC W03  15 L11 Assignment 1: OSC-10 Chapter 9
+ZCZC W03  30 L12 Assignment 2: Trying Demo Week 04
+ZCZC W03  10 L13 Assignment 3: add myrank for week 03
+ZCZC W03  10 L15 Assignment 5: Update LOG
+ZCZC W03  30 L18 Assignment 6: Tarball myW04.tar.bz2
+ZCZC W03  15 L17 Assignment 7: Check bash script
+ZCZC W03  10 L18 Assignment 8: bash myscript
