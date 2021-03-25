@@ -45,3 +45,4 @@ ZCZC W03  10 L15 Assignment 5: Update LOG
 ZCZC W03  30 L18 Assignment 6: Tarball myW04.tar.bz2
 ZCZC W03  15 L17 Assignment 7: Check bash script
 ZCZC W03  10 L18 Assignment 8: bash myscript
+ZCZC W03  240 L13 Assignment 4: GSGS for my 10 LINK week 4
