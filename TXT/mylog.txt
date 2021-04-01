@@ -53,5 +53,6 @@ ZCZC W05  300 L13 Assignment 3: Create top 10 link for week 05
 ZCZC W05  10 L15 Assignment 4: Tarball myW05.tar.bz2
 ZCZC W05  30 L18 Assignment 5: Update Mylog.txt
 ZCZC W05  10 L18 Assignment 6: bash myscript
-ZCZC W02  30 L08 Trying something: Trying Demo Week 05
+ZCZC W05  30 L08 Trying something: Trying Demo Week 05
+ZCZC W05  20 L10 Assignment (General): POPQUIZW05Q02
 
