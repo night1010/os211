@@ -38,11 +38,20 @@ ZCZC W03  10 L18 Assignment 6: Update mylog
 ZCZC W03  10 L19 Assignment 9: bash myscript
 ZCZC W03  20 L05 GSGS : search for popquiz
 ZCZC W04 105 L02 ZOOM related: Fifth syncronous class
-ZCZC W03  15 L11 Assignment 1: OSC-10 Chapter 9
-ZCZC W03  30 L12 Assignment 2: Trying Demo Week 04
-ZCZC W03  10 L13 Assignment 3: add myrank for week 03
-ZCZC W03  10 L15 Assignment 5: Update LOG
-ZCZC W03  30 L18 Assignment 6: Tarball myW04.tar.bz2
-ZCZC W03  15 L17 Assignment 7: Check bash script
-ZCZC W03  10 L18 Assignment 8: bash myscript
-ZCZC W03  240 L13 Assignment 4: GSGS for my 10 LINK week 4
+ZCZC W04  15 L11 Assignment 1: OSC-10 Chapter 9
+ZCZC W04  30 L12 Assignment 2: Trying Demo Week 04
+ZCZC W04  10 L13 Assignment 3: add myrank for week 03
+ZCZC W04  10 L15 Assignment 5: Update LOG
+ZCZC W04  30 L18 Assignment 6: Tarball myW04.tar.bz2
+ZCZC W04  15 L17 Assignment 7: Check bash script
+ZCZC W04  10 L18 Assignment 8: bash myscript
+ZCZC W04  240 L13 Assignment 4: GSGS for my 10 LINK week 4
+ZCZC W05  75 L02 ZOOM related: sixth syncronous class
+ZCZC W05  15 L11 Assignment 1: OSC-10 Chapter 10
+ZCZC W05  10 L12 Assignment 2: add myrank for week 04
+ZCZC W05  300 L13 Assignment 3: Create top 10 link for week 05
+ZCZC W05  10 L15 Assignment 4: Tarball myW05.tar.bz2
+ZCZC W05  30 L18 Assignment 5: Update Mylog.txt
+ZCZC W05  10 L18 Assignment 6: bash myscript
+ZCZC W02  30 L08 Trying something: Trying Demo Week 05
+
