@@ -55,4 +55,13 @@ ZCZC W05  30 L18 Assignment 5: Update Mylog.txt
 ZCZC W05  10 L18 Assignment 6: bash myscript
 ZCZC W05  30 L08 Trying something: Trying Demo Week 05
 ZCZC W05  20 L10 Assignment (General): POPQUIZW05Q02
+ZCZC W06  110 L02 ZOOM related: seventh syncronous class
+ZCZC W06  15 L11 Assignment 1: OSC-10 Chapter 03 dan 04
+ZCZC W06  10 L12 Assignment 2: add myrank for week 05
+ZCZC W06  300 L13 Assignment 3: Create top 10 link for week 06
+ZCZC W06  20 L15 Assignment 4: Tarball myW06.tar.bz2 
+ZCZC W06  30 L18 Assignment 5: Update Mylog.txt
+ZCZC W06  10 L18 Assignment 6: bash myscript
+ZCZC W06  30 L08 Trying something: Trying Demo Week 06
+ZCZC W06  20 L10 Assignment (General): POPQUIZW06Q02 and Q03
 
