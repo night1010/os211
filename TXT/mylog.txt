@@ -64,4 +64,11 @@ ZCZC W06  30 L18 Assignment 5: Update Mylog.txt
 ZCZC W06  10 L18 Assignment 6: bash myscript
 ZCZC W06  30 L08 Trying something: Trying Demo Week 06
 ZCZC W06  20 L10 Assignment (General): POPQUIZW06Q02 and Q03
-
+ZCZC W07 110 L02 ZOOM related : 26/4 10.00 - 11.50
+ZCZC W07  25 L11 Assignment 1: OSC10 chapter 06, 07, and 08
+ZCZC W07  10 L12 Assignment 2: add myrank for week 05
+ZCZC W07  300 L13 Assignment 3: Create top 10 link for week 06
+ZCZC W07  20 L15 Assignment 4: Tarball myW07.tar.bz2
+ZCZC W07  30 L18 Assignment 5: Update Mylog.txt
+ZCZC W07  10 L18 Assignment 6: bash myscript
+ZCZC W07  30 L08 Trying something: Trying Demo Week 07
